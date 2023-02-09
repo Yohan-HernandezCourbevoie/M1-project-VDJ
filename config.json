@@ -1,4 +1,5 @@
 {
     'data_dir': 'sra',
-    'sra_accession': 'accessions.txt'
+    'sra_accession': 'accessions.txt',
+    'flash_dir': './vidjil-algo-2021.04'
 }
