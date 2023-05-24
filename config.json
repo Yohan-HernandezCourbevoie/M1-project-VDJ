@@ -1,5 +1,12 @@
 {
-    'data_dir': 'sra',
-    'sra_accession': 'accessions.txt',
-    'flash_dir': './vidjil-algo-2021.04'
+    'data_dir': '/data/miso/sra',
+    'sra_accession': '/home/m1miso/snakemake_csv/accessions.txt',
+    'accession_project': '/home/m1miso/snakemake_csv/accessions_projet.txt',
+    'flash_dir': '/data/miso/flash_data',
+    'vidjil_dir': '/data/miso/vidjil_data',
+    'csv_dir': '/data/miso/csv_data',
+    'fasta_dir': '/data/miso/fasta_data',
+    'chain_alignment_dir': '/data/miso/chain_alignment_data',
+    'stat_dir': '/data/miso/results',
+    'results_dir': '/data/miso/results'
 }
